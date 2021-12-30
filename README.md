@@ -5,6 +5,9 @@
 npm install
 ```
 
+## Must have Vue CLI installed
+[Vue CLI install](https://cli.vuejs.org/guide/installation.html)
+
 ### Compiles and hot-reloads for development
 ```
 npm run serve
@@ -19,6 +22,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
